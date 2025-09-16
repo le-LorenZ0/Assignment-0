@@ -20,7 +20,7 @@ public class Rectangle {
 	public int getWidth() {
 		return width;
 	}
-	///test
+	///te
 	public int getArea() {
 		return length * width;
 	}
